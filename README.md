@@ -1,2 +1,2 @@
 # DS-praktikumidagi-amaliyotlar
-Ushbu repo Data Science va Sun’iy intellekt praktikum kursida amaliyotlarini bajarish uchun ochilgan
+Ushbu repo Data Science va Sun’iy intellekt praktikumida berilgan amaliyotlarni bajarish uchun ochilgan
