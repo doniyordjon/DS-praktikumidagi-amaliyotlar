@@ -1,0 +1,1 @@
+# DS-praktikumidagi-amaliyotlar
